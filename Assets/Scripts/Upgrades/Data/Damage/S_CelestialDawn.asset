@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20b26a0842626da48bd758b27fbc5c66, type: 3}
+  m_Name: S_CelestialDawn
+  m_EditorClassIdentifier: 
+  upgradeName: Celestial Dawn
+  description: Tears through the void.
+  statDescription: +15 Player Damage
+  price: 500
+  icon: {fileID: 21300000, guid: f53773df14036fb47bb952bce7532b7b, type: 3}
+  rarity: 4
+  damageIncreaseAmount: 15

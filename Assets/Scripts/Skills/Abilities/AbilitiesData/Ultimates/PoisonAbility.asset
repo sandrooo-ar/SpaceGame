@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f844f2e2a8458274c80dbb5002b39288, type: 3}
+  m_Name: PoisonAbility
+  m_EditorClassIdentifier: 
+  name: Poison
+  isComboAbility: 0
+  isPassive: 1
+  cooldownTime: 0
+  icon: {fileID: -3687489427716195, guid: 12860057fa8d575479ea8c396d5aaf44, type: 3}
+  soundEffect: {fileID: 0}
+  upgradeData: {fileID: 11400000, guid: c02852efff2fe5f42901329da7e5eda0, type: 2}
+  currentLevel: 0
+  maxLevel: 3
+  abilityHolder: {fileID: 0}
+  poisonDamageImprovement: 1
+  poisonDecayImprovement: 1
+  poisonTickIntervalImprovement: 0.2
+  poisonComponentProjectile: {fileID: 0}

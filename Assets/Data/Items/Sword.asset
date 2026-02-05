@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c8e9bd08e98cdf4db5095e4508d2b15, type: 3}
+  m_Name: Sword
+  m_EditorClassIdentifier: 
+  <IsStackable>k__BackingField: 0
+  <MaxStackSize>k__BackingField: 1
+  <Name>k__BackingField: Sword
+  <Description>k__BackingField: Cuts things
+  <ItemImage>k__BackingField: {fileID: 21300000, guid: a4f52fa4f9d329141bf24171d6a5a140, type: 3}
+  <DefaultParametersList>k__BackingField:
+  - itemParameter: {fileID: 11400000, guid: 33ac7f68f6cdb1445a0513d6aa02a706, type: 2}
+    value: 100
+  <ItemPrefab>k__BackingField: {fileID: 485367585217742182, guid: 75430b5f1f40927498342e328eb1cded, type: 3}
+  EquipmentType: 5
+  <actionSFX>k__BackingField: {fileID: 8300000, guid: f9b57b5df064ff44693b348316ae4fa4, type: 3}
